@@ -36,9 +36,9 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Name: Joans Jay Authers A </h1>
-<h2>Ref No: 21003407</h2>
-<h2>Dept:Artfifcial Intelligence and Machine Learning</h2>
+<h1>Name:SRINIDHI SENTHIL </h1>
+<h2>Ref No: 22001408</h2>
+<h2>Dept:Artfifcial Intelligence and data acience</h2>
 </body>
 </html>
 """
