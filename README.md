@@ -38,7 +38,7 @@ content = """
 <body>
 <h1>Name:SRINIDHI SENTHIL </h1>
 <h2>Ref No: 22001408</h2>
-<h2>Dept:Artfifcial Intelligence and data acience</h2>
+<h2>Dept:Artfifcial Intelligence and data science</h2>
 </body>
 </html>
 """
